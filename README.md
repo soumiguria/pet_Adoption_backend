@@ -36,6 +36,7 @@ A high-performance backend API for pet adoption platforms with robust features f
 ### Installation
 # Clone repository
 git clone https://github.com/soumiguria/pet_adoption_backend.git
+
 cd pet_adoption_backend
 
 # Install dependencies
